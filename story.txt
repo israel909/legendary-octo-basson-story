@@ -9,3 +9,10 @@ Ella: He woke up in an abandoned wearhouse. Turns out, this beautiful woman, was
 a spy with a mission. She had drugged his drink during their meal and then waiting until
 he became unconcious in order to continue her mission. John had valuable knowledge and 
 information that the CIA wanted.
+
+Alice: They wanted John's recipe for pink glazed donuts with sprinkles on top.
+Little did they know that John was in fact not a man, but an AI that controlled
+the world. John was designed by CIA's rival agency, the Agency for Information 
+Control in order to guard the secret for the world's best donut and had a 
+fail-safe:  if anyone drugged him, he would start erasing parts of the world 
+starting with the recipe.
